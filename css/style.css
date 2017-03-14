@@ -1,0 +1,30 @@
+#wrap{
+	width: 250px;
+	margin: auto;
+}
+#search{
+	padding: 10px;
+	margin-bottom: 15px;
+	border: 3px solid #7D817D;
+	border-radius: 1%;
+}
+#search img{
+	max-width: 230px;
+	position: relative;
+	margin: 0px auto;
+}
+#message{
+	text-align: center;
+	border: 2px solid #7D817D;
+	border-radius: 1%;
+}
+#result{
+	padding: 10px;
+	margin-bottom: 2px;
+	border: 2px solid #7D817D;
+	border-radius: 1%;
+}
+#result img{
+	float: right;
+	max-height: 40px;
+}
